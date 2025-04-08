@@ -1,7 +1,7 @@
 #!/bin/bash
 
 clear
-# dx color
+# px color
 r='\033[1;91m'
 p='\033[1;95m'
 y='\033[1;93m'
